@@ -29,6 +29,10 @@ Cross-Browser Compatibility: Optimized for performance across different web brow
 ## 👤 Author
 Suvathik - k4suvathik@gmail.com
 
+## screen shot
+
+![medcare](https://github.com/user-attachments/assets/2fb50dba-0d1d-4146-b6d1-98e988ef8d50)
+
 ## 📂 Project Structure
 
 ```bash
